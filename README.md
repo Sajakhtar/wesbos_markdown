@@ -118,9 +118,6 @@ Unordered lists (Bullet points) can be created using asterisk `*`, hypen `-` or 
 - UL 3
   - nested UL 3
 
-* assads
-* assd
-
 Ordered lists - good practice to juse use `1.` for all list items, as the markdown editor will increment the number automatically, and that way you dont have to worry about adding more items in the list and re-ordering
 
 1. OL 1
