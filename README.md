@@ -212,7 +212,7 @@ Checkboxes are done via a bullet points/ list and `[ ]` for unchecked or `[x]` f
 
 - [x] Learn Markdown - marked as done
 - [ ] Learn HTML and CSS
-- [ ] leanr JS
+- [ ] Learn JS
 
 1. [x] Learn Markdown - marked as done
 1. [ ] Learn HTML and CSS
