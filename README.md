@@ -75,18 +75,23 @@ The format for images is `![alt text](url)`
 Examples using [Picsum Photos](https://picsum.photos/), the ipsum lorem of photos
 
 600x300
+
 ![Snow mountain](https://picsum.photos/seed/picsum/500/300 "Snow mountain")
 
 Greyscale
+
 ![Snow mountain greyscale](https://picsum.photos/seed/picsum/500/300?grayscale)
 
 Blurred
+
 ![Snow mountain blurred](https://picsum.photos/seed/picsum/500/300?blur)
 
 Blur intensity 2
+
 ![Snow mountain blur=2](https://picsum.photos/seed/picsum/500/300?blur=2)
 
 Greyscale and Blur intensity 2
+
 ![Snow mountain greyscale blur=2][snow]
 
 [snow]: https://picsum.photos/seed/picsum/500/300?grayscale&blur=2
@@ -213,10 +218,6 @@ Checkboxes are done via a bullet points/ list and `[ ]` for unchecked or `[x]` f
 - [x] Learn Markdown - marked as done
 - [ ] Learn HTML and CSS
 - [ ] Learn JS
-
-1. [x] Learn Markdown - marked as done
-1. [ ] Learn HTML and CSS
-1. [ ] Learn JS
 
 Link to Github issues and pull requests by using hash `#` then selecting the issue number you wish to reference.
 
