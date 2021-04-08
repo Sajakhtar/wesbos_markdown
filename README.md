@@ -2,6 +2,8 @@
 
 [Mastering Markdown by Wes Bos](https://masteringmarkdown.com/)
 
+[Hosted on GitHub Pages](https://sajakhtar.github.io/wesbos_markdown/)
+
 Use cases for markdown
 
 - Formatted text
